@@ -1,0 +1,145 @@
+
+header{
+  margin: 17px 52px 7px 52px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.phonenumber{
+  font-family: arial;
+  color: rgb(94, 105, 109);
+  font-size: 19px;
+  margin-left: 1px;
+}
+
+header img{
+  margin-top: -2px;
+}
+
+.header_1{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 15px;
+  margin-top: -6px;
+  height: 25px;
+  width: 495px;
+  background-color: rgb(12, 51, 87);
+  background-image: url(../img/header_background.jpg);
+  background-repeat: repeat-x;
+  border-radius: 4px;
+  box-shadow: 1px 1px 2px 1px rgba(180,180,180,1);
+  border-top: 1px solid rgb(166, 195, 207);
+  border-bottom: 1px solid rgb(89, 109, 128);
+}
+
+.header_1 img{
+  margin: 3px;
+  margin-bottom: 2px;
+  margin-right: 2px;
+}
+
+.input_header{
+  display: inline-block;
+  font-family: "Lucida Sans Unicode";
+  font-size: 10.5px;
+  font-stretch: extra-expanded;
+  width: 108px;
+  height: 16px;
+  padding-left: 5px;
+  margin-bottom: 4px;
+  margin-top: 3px;
+  margin-right: 2px;
+  border-left: 1px solid rgb(123, 140, 150);
+  border-right: 1px solid rgb(208, 211, 212);
+  border-top: 1px solid rgb(130, 148, 156);
+  border-bottom: 1px solid rgb(89, 109, 128);
+  border-radius: 1px;
+}
+
+.input_header2{
+  display: inline-block;
+  font-family: "Lucida Sans Unicode";
+  font-size: 10.5px;
+  font-stretch: extra-expanded;
+  height: 16px;
+  width: 108px;
+  padding-left: 4px;
+  margin-bottom: 4px;
+  margin-top: 3px;
+  margin-left: 2px;
+  border-left: 1px solid rgb(123, 140, 150);
+  border-right: 1px solid rgb(208, 211, 212);
+  border-top: 1px solid rgb(130, 148, 156);
+  border-bottom: 1px solid rgb(89, 109, 128);
+  border-radius: 1px;
+}
+
+.header_1 span{
+  position: absolute;
+  font-family: "Lucida Sans Unicode";
+  font-size: 12px;
+  height: 10px;
+  margin-left: 8.5px;
+  left: 621px;
+  top: 21.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.header_1 span .entrance{
+  color: white;
+  font-size: 10.5px;
+  text-decoration: none;
+  margin-left: 1px;
+}
+
+.header_1 span .registration{
+  color: white;
+  font-size: 10.5px;
+  text-decoration: none;
+  font-stretch: extra-expanded;
+  margin-left: 2.8px;
+}
+
+.header_1 span .reminder{
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  height: 10px;
+  left: 117.5px;
+  top: -7px;
+}
+
+.header_nav{
+  background-image: url(../img/header_nav.jpg);
+  height: 22px;
+  margin-left: 15px;
+  margin-top: -4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding-right: 21px;
+  padding-left: 20px;
+  padding-bottom: 5px;
+}
+
+.header_nav .navhome{
+  position: relative;
+  left: -8px;
+}
+
+.header_nav .navtree{
+  position: relative;
+  top: 1px;
+}
+
+.header_nav .navletter{
+  position: relative;
+  left: 8px;
+  top: 0.5px;
+}

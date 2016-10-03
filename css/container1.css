@@ -1,0 +1,227 @@
+
+.selection_box1{
+  position: relative;
+  width: 413px;
+  height: 133px;
+  border: 1px solid rgb(182, 182, 183);
+  border-radius: 18px;
+  box-shadow: 3px 3px 4px 0px rgba(182,182,183,1);
+  margin: 13px 11px 14px 52px;
+}
+
+.selection_box1 .disks{
+  position: relative;
+  left: 22px;
+  top: -1px;
+  font-size: 10px;
+  font-family: "Arial black";
+  color: rgb(21, 68, 103);
+  font-weight: bold;
+}
+
+.selection_box1 .car_search{
+  position: relative;
+  left: 84.5px;
+  top: -3px;
+  font-size: 12.7px;
+  font-family: "Arial black";
+  color: rgb(21, 68, 103);
+  font-weight: bold;
+  font-stretch: extra-expanded;
+}
+
+.selection_box1 .tyres{
+  position: relative;
+  left: 154.5px;
+  top: -3px;
+  font-size: 10px;
+  font-family: "Arial black";
+  color: rgb(21, 68, 103);
+  font-weight: bold;
+}
+
+.car_brand1 .first{
+  position: relative;
+  top: -2px;
+  left: 18px;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 10px;
+  color: rgb(38,38, 38);
+}
+
+.car_brand1 .second{
+  position: relative;
+  top: -2px;
+  left: 15px;
+  font-family: Arial;
+  font-size: 9.5px;
+  color: rgb(162, 171, 174);
+}
+
+.car_brand1 .third{
+  position: relative;
+  top: -8px;
+  left: 18px;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 10px;
+  color: rgb(38,38, 38);
+}
+
+.car_brand1 .fourth{
+  position: relative;
+  left: -24px;
+  font-family: Arial;
+  font-size: 9.5px;
+  color: rgb(162, 171, 174);
+}
+
+.car_brand1 .fifth{
+  position: relative;
+  top: -8px;
+  left: 18.5px;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 9.5px;
+  color: rgb(38,38, 38);
+}
+
+.car_brand1 .sixth{
+  position: relative;
+  left: -45px;
+  font-family: Arial;
+  font-size: 9.5px;
+  color: rgb(162, 171, 174);
+}
+
+.car_brand1 .seventh{
+  position: relative;
+  top: -4px;
+  left: 18px;
+  font-family: Arial;
+  font-size: 9.5px;
+  color: rgb(38,38, 38);
+  font-weight: bold;
+}
+
+.car_brand1 .arrow1{
+  position: relative;
+  top: 2px;
+  left: 32px;
+}
+
+.car_brand1 .arrow2{
+  position: relative;
+  top: 2px;
+  left: -8px;
+}
+
+.car_brand1 .arrow3{
+  position: relative;
+  top: 2px;
+  left: -29px;
+}
+
+.car_brand1 .arrow4{
+  position: relative;
+  top: 2px;
+  left: 17px;
+}
+
+.car_brand2 .first{
+  position: relative;
+  top: -92px;
+  left: 223px;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 10px;
+  color: rgb(38,38, 38);
+}
+
+.car_brand2 .second{
+  position: relative;
+  top: -92px;
+  left: 221px;
+  font-family: Arial;
+  font-size: 9.5px;
+  color: rgb(162, 171, 174);
+}
+
+.car_brand2 .third{
+  position: relative;
+  top: -98px;
+  left: 223px;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 10px;
+  color: rgb(38,38, 38);
+}
+
+.car_brand2 .fourth{
+  position: relative;
+  top: -90px;
+  left: 182px;
+  font-family: Arial;
+  font-size: 9.5px;
+  color: rgb(162, 171, 174);
+}
+
+.car_brand2 .fifth{
+  position: relative;
+  top: -98px;
+  left: 224px;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 8.5px;
+  color: rgb(38,38, 38);
+}
+
+.car_brand2 .sixth{
+  position: relative;
+  top: -90px;
+  left: 167px;
+  font-family: Arial;
+  font-size: 9.5px;
+  color: rgb(162, 171, 174);
+}
+
+.car_brand2 .seventh{
+  position: relative;
+  top: -94px;
+  left: 223px;
+  font-family: Arial;
+  font-size: 9.5px;
+  color: rgb(38,38, 38);
+  font-weight: bold;
+}
+
+.car_brand2 .arrow1{
+  position: relative;
+  top: -88px;
+  left: 237px;
+}
+
+.car_brand2 .arrow2{
+  position: relative;
+  top: -88px;
+  left: 197px;
+}
+
+.car_brand2 .arrow3{
+  position: relative;
+  top: -88px;
+  left: 183px;
+}
+
+.car_brand2 .arrow4{
+  position: relative;
+  top: -88px;
+  left: 222px;
+}
+
+.car_brand2 .pict{
+  position: relative;
+  top: -83px;
+  left: 343px;
+}

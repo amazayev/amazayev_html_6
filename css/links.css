@@ -1,0 +1,51 @@
+
+.links{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 50px;
+}
+
+.toyo{
+  position: relative;
+  top: -3px;
+  left: -62px;
+}
+
+.bridgestone{
+  position: relative;
+  top: -2px;
+  left: -56px;
+}
+
+.continental{
+  position: relative;
+  top: 1px;
+  left: -51px;
+}
+
+.cooper{
+  position: relative;
+  left: -45px;
+}
+
+.avon{
+  position: relative;
+  left: -44px;
+}
+
+.tirefactory{
+  position: relative;
+  left: -38px;
+}
+
+.pirelli{
+  position: relative;
+  left: -33px;
+}
+
+.dunlop{
+  position: relative;
+  left: -28px;
+}

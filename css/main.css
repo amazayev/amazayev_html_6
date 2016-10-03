@@ -1,0 +1,332 @@
+
+.main{
+  height: 628px;
+  width: 524px;
+  background-image: url(../img/main_background.jpg);
+  background-repeat: repeat;
+  border-radius: 5px;
+  margin: 8px 14px 0px 10px;
+  position: absolute;
+  top: 141px;
+  left: 178px;
+}
+
+.main_goodyear{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 147px;
+  left: 164px;
+}
+
+.main_goodyear1, .main_goodyear2, .main_goodyear3{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial;
+  font-size: 13px;
+  color: rgb(31, 37, 40);
+  font-weight: 600;
+  position: relative;
+  left: -214px;
+}
+
+.goodyear1, .goodyear4, .goodyear7{
+  font-family: "Lucida Sans Unicode";
+  font-size: 14.5px;
+  color: rgb(32, 105, 136);
+  font-weight: bolder;
+  margin-bottom: -4.5px;
+}
+
+.goodyear11, .goodyear44, .goodyear77{
+  font-family: "Lucida Sans Unicode";
+  font-family: Arial;
+  font-size: 12px;
+  color: rgb(31, 37, 40);
+  font-weight: bold;
+  margin-left: 4px;
+  margin-top: 0px;
+  word-spacing: 0.5px;
+  letter-spacing: 0.5px;
+}
+
+.goodyear44{
+  position: relative;
+  top: 1px;
+}
+
+.goodyear77{
+  margin-top: 0px;
+  margin-left: 4px;
+  letter-spacing: 0.5px;
+  word-spacing: 0px;
+
+}
+
+.goodyear7{
+  margin-top: 2px;
+  margin-left: -1.5px;
+}
+
+.goodyear2, .goodyear5, .goodyear8{
+  font-family: "Arial Black";
+  margin-top: 2px;
+  margin-left: 8.5px;
+  margin-bottom: -2px;
+  font-size: 17px;
+  font-family: "Arial";
+  color: rgb( 17, 65, 101 );
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.627;
+  text-align: center;
+}
+
+.goodyear5{
+  position: relative;
+  left: 1px;
+}
+
+.goodyear3, .goodyear6, .goodyear9{
+  font-family: "Arial Black";
+  font-size: 13px;
+  margin-top: 1px;
+  font-family: "Arial";
+  color: rgb( 17, 65, 101 );
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.627;
+}
+
+.goodyear6{
+  position: relative;
+  left: 0.5px;
+  top: 1px;
+}
+
+.main_nokian{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  left: 166px;
+}
+
+.main_nokian1, .main_nokian2, .main_nokian3{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial;
+  font-size: 13px;
+  color: rgb(31, 37, 40);
+  font-weight: 600;
+}
+
+.nokian1, .nokian4, .nokian7{
+  font-family: "Lucida Sans Unicode";
+  font-size: 14.5px;
+  color: rgb(32, 105, 136);
+  font-weight: bolder;
+  margin-bottom: -5px;
+  margin-left: 2px;
+}
+
+.nokian4{
+  margin-top: -2.5px;
+}
+
+.nokian7{
+  position: relative;
+  margin-bottom: -10px;
+  top: 3px;
+}
+
+.nokian11, .nokian44, .nokian77{
+  font-family: "Lucida Sans Unicode";
+  font-family: Arial;
+  font-size: 13px;
+  color: rgb(31, 37, 40);
+  font-weight: bold;
+}
+
+.nokian11{
+  margin-left: 4px;
+  word-spacing: 1px;
+}
+
+.nokian44{
+  margin-left: 3.5px;
+  word-spacing: 0.5px;
+}
+
+.nokian77{
+  margin-top: 9px;
+  margin-left: 5.5px;
+  word-spacing: 0.5px;
+  margin-bottom: -3px;
+
+}
+
+.nokian2, .nokian5, .nokian8{
+  font-family: "Arial Black";
+  margin-top: 2px;
+  margin-left: 10px;
+  margin-bottom: -2px;
+  font-size: 17px;
+  font-family: "Arial";
+  color: rgb( 17, 65, 101 );
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.627;
+  text-align: center;
+}
+
+.nokian5{
+  position: relative;
+  top: 1px;
+  left: 0.5px;
+  margin-right: -2px;
+}
+
+.nokian8{
+  position: relative;
+  top: 0px;
+  left: 0.5px;
+}
+
+.nokian3, .nokian6, .nokian9{
+  font-family: "Arial Black";
+  font-size: 13px;
+  margin-top: 1px;
+  font-family: "Arial";
+  color: rgb( 17, 65, 101 );
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.627;
+}
+
+.nokian3{
+  position: relative;
+  left: 2.5px;
+}
+
+.nokian9{
+  position: relative;
+  left: 2.5px;
+}
+
+.main_hankook{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  left: 170px;
+}
+
+.main_hankook1, .main_hankook2, .main_hankook3{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial;
+  font-size: 13px;
+  color: rgb(31, 37, 40);
+  font-weight: 600;
+}
+
+.hankook1, .hankook4, .hankook7{
+  font-family: "Lucida Sans Unicode";
+  font-size: 14.5px;
+  color: rgb(32, 105, 136);
+  font-weight: bolder;
+  margin-bottom: -5px;
+  margin-left: 4px;
+}
+
+.hankook4{
+  margin-top: -1.5px;
+  margin-left: 3px;
+}
+
+.hankook7{
+  position: relative;
+  margin-bottom: -10px;
+  top: 4px;
+}
+
+.hankook11, .hankook44, .hankook77{
+  font-family: "Lucida Sans Unicode";
+  font-size: 12.5px;
+  color: rgb(31, 37, 40);
+  font-weight: bold;
+}
+
+.hankook11{
+  margin-left: 4px;
+  margin-bottom: -5px;
+  position: relative;
+  top: -1px;
+  left: -1px;
+}
+
+.hankook44{
+  word-spacing: 0.5px;
+  position: relative;
+  top: -2px;
+  margin-bottom: -3.5px;
+}
+
+.hankook77{
+  margin-top: 6px;
+  margin-left: 2.5px;
+  margin-bottom: -3px;
+}
+
+.hankook2, .hankook5, .hankook8{
+  font-family: "Arial Black";
+  margin-top: 2px;
+  margin-left: 11px;
+  margin-bottom: -2px;
+  font-size: 17px;
+  font-family: "Arial";
+  color: rgb( 17, 65, 101);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.627;
+  text-align: center;
+}
+
+.hankook5{
+  position: relative;
+  top: 1px;
+  left: 0.5px;
+  margin-right: -2px;
+}
+
+.hankook8{
+  position: relative;
+  top: 0px;
+  left: 1px;
+}
+
+.hankook3, .hankook6, .hankook9{
+  font-family: "Arial Black";
+  font-size: 13px;
+  margin-top: 1px;
+  font-family: "Arial";
+  color: rgb( 17, 65, 101 );
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.627;
+}
+
+.hankook3{
+  position: relative;
+  left: 2.5px;
+}
+
+.hankook9{
+  position: relative;
+  left: 1px;
+}

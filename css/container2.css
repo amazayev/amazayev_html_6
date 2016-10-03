@@ -1,0 +1,119 @@
+
+.selection_box2{
+  position: relative;
+  max-width: 191px;
+  height: 135px;
+  top: -227px;
+  left: 378px;
+  border: 1px solid rgb(182, 182, 183);
+  border-radius: 18px;
+  box-shadow: 3px 3px 4px 0px rgba(182,182,183,1);
+  margin: 13px 11px 14px 52px;
+}
+
+.selection_box2 .tyres{
+  position: relative;
+  left: 8.5px;
+  top: -1px;
+  font-size: 12px;
+  font-family: "Arial black";
+  color: rgb(21, 68, 103);
+  font-weight: bold;
+}
+
+.tyres_search{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 10px;
+  color: rgb(38,38, 38);
+}
+
+.tyres_size{
+  position: absolute;
+  left: 488px;
+  top: 20px;
+}
+
+.tyres_r{
+  position: absolute;
+  left: 486px;
+  top: 42px;
+}
+
+.empty{
+  position: absolute;
+  left: 543px;
+  top: 20px;
+}
+
+.tyres1{
+  position: absolute;
+  font-weight: normal;
+  left: 442.5px;
+  top: 28px;
+}
+
+.tyres2{
+  position: absolute;
+  left: 474.5px;
+  font-weight: normal;
+  font-size: 10.5px;
+  top: 49px;
+}
+
+.tyres3{
+  position: absolute;
+  left: 443.5px;
+  top: 67px;
+}
+
+.tyres_search form{
+  display: flex;
+  flex-direction: column;
+  font-weight: normal;
+  font-family: Arial;
+  font-size: 11px;
+}
+
+.tyres_search form{
+  position: absolute;
+  top: 66px;
+  left: 502px;
+}
+
+.tyres_search form p{
+  font-family: "Lucida Sans Unicode";
+  font-size: 12px;
+}
+
+.tyres_search form .radio1{
+  position: relative;
+}
+
+.tyres_search form .radio2{
+  position: relative;
+  top: -4px;
+  left: -2px;
+}
+
+.tyres_search form .radio3{
+  position: relative;
+  top: -8px;
+  left: -0.5px;
+}
+
+input[type=radio] {
+    display: none;
+  }
+
+.change{
+  position: absolute;
+  top: 68px;
+  left: 487px;
+}
+
+.tyres_search .pict{
+  position: absolute;
+  top: 111px;
+  left: 552px;
+}

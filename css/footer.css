@@ -1,0 +1,74 @@
+
+footer{
+  width: 910px;
+  height: 100px;
+  margin-top: 24px;
+  margin-right: 46px;
+  margin-left: 46px;
+  margin-bottom: 0px;
+  background-color: rgb(33, 58, 77);
+  position: absolute;
+  top: 695px;
+  left: -214px;
+}
+
+footer a{
+  color: white;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 12px;
+  padding: 12px;
+  letter-spacing: 0.3px;
+}
+
+footer a:hover{
+  color: rgb(59, 176, 222);
+}
+
+nav{
+  position: relative;
+  top: 7.5px;
+  left: 297px;
+}
+
+.delivery{
+  position: relative;
+  left: -3px;
+}
+
+.articles{
+  position: relative;
+  left: -6px;
+}
+
+.contacts_footer{
+  position: relative;
+  left: -4.5px;
+}
+
+.footer1{
+  position: relative;
+  left: 388px;
+  top: -7px;
+}
+
+.footer2{
+  position: relative;
+  left: 458px;
+  top: -7px;
+}
+
+.footer3{
+  position: relative;
+  left: 515px;
+  top: -7px;
+}
+
+footer p{
+  font-size: 10px;
+  font-family: Arial;
+  color: rgb(168, 89, 72);
+  position: absolute;
+  left: 377.5px;
+  top: 39px;
+}
